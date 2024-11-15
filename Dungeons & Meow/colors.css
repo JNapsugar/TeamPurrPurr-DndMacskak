@@ -1,0 +1,28 @@
+
+:root{
+    --sotetbarna: #714c22;
+    --gold:#FFD700;
+    --gold-light:#E0C452;
+
+    --bg_blue:#27A1D8;
+    --border_green:#27D8B6;
+    --dark_blue:#2749D8;
+    --dark_purple:#5E27D8;
+
+    --brown: #D85E27;
+    --green:#27D85E;
+    --danger_red: #D82749;
+    --magenta:#D827A1;
+    --grass_green:#49D827;
+    --lime_green:#A1D827;
+    --purple: #B627D8;
+
+    --turquoise: #41BEB3;
+    --mat_blue: #418BBE;
+    --mat_green: #41BE74;
+    --button_turquoise: #489B94;
+    --button_green: #256841;
+}
+
+
+
